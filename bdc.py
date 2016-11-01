@@ -42,20 +42,6 @@ for each in list_classes:
 		print each
 
 
-	# for detail in details:
-	# 	if detail.has_attr('href'):
-	# 		print "have we even found anything?"
-	# 		print detail.text
-
-	# a_class = [each.text.encode('utf-8') for each in details if len(details) == 4]
-
-# print response.status_code
-# print response.headers
-# print bsObj
-# print table
-# print count
-
-
 # SAVE THIS:
 	# if len(details) == 4:
 	# 	for each in details:
